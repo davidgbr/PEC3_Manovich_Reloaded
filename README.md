@@ -1,4 +1,4 @@
-﻿# PEC3_Manovich_Reloaded
+# PEC3_Manovich_Reloaded
 # Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 
 > Autor: David G. Bonacho
@@ -6,8 +6,9 @@
 # Introducción
 ## El futuro no es lo que era
 
-La hibridación no es lo mismo que multimedia. Sí que es cierto que existe una combinación de varios medios pero, a diferencia del multimedia de finales del siglo pasado, donde se presentaba el audio, el vídeo, el texto, y otros elementos por separado pero agrupados, en el caso de la hibridación se trata de una simbiosis, una mezcla entre uno o más medios que, a su vez, produce un nuevo medio. 
-Con “la máquina de medios” que es el ordenador, la creación de un medio híbrido puede ser cuestión de poco tiempo, como en los ejemplos recientes de hibridación que vamos a ver en este documento: una proyección de videomapping realizada por Mediacraft (3D projection mapping on a church – Mediacraft) y una exposición inmersiva (El laberinto de Tim Burton)
+La **hibridación** no es lo mismo que **multimedia**. Sí que es cierto que existe una combinación de varios medios pero, a diferencia del multimedia de finales del siglo pasado, donde se presentaba el audio, el vídeo, el texto, y otros elementos por separado pero agrupados, en el caso de la hibridación se trata de una **simbiosis**, una mezcla entre uno o más medios que, a su vez, produce un **nuevo medio**. 
+
+Con **“la máquina de medios” **que es el **ordenador**, la creación de un medio híbrido puede ser cuestión de poco tiempo, como en los ejemplos recientes de hibridación que vamos a ver en este documento: una proyección de **videomapping** realizada por Mediacraft (3D projection mapping on a church – Mediacraft) y una exposición inmersiva (El laberinto de Tim Burton)
 
 
 # 3D projection mapping on a church - Mediacraft
