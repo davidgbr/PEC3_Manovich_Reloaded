@@ -58,6 +58,7 @@ El laberinto de Tim Burton es un viaje al universo creativo del director de cine
 > El concepto de exposición “inmersiva” es ya un híbrido en sí mismo. Es una fusión entre una exposición, las artes escénicas, las artes plásticas y el cine.
 
 En “El laberinto de Tim Burton” el personal que trabaja en la exposición no son ni actúan como trabajadores normales (ajenos al espectáculo para el que trabajan) son Umpalumpas (Oompa Loompa), es decir, los personajes de la película “Charlie y la fábrica de chocolate” lo que sugiere un adelanto en la inmersión deseada e ideada cuidadosamente en toda la exposición.
+
 ## La exposición
 
 Esta exposición ha sido minuciosamente estudiada y elaborada para lograr transmitir algo que ni con las películas, ni viendo los dibujos del artista ni leyendo en internet los procesos creativos que le han llevado a hacerlas se puede conseguir. Para ello, los productores (entre los que está el propio artista, Tim Burton) han creado un medio nuevo, un híbrido que combina el cine con las artes escénicas y las artes plásticas que hace que cada uno de los espectadores tenga una experiencia totalmente diferente de la visita, ideando un sistema **“laberíntico”** en el que cada sala dispone de un número de puertas y eliges cual acceder. Al hacerlo entras en otra sala que tiene, a su vez, otras tantas puertas. En cada una de las salas hay animaciones y dibujos del autor, decorados de sus películas o unas increíbles esculturas de gran tamaño y excelent
@@ -67,7 +68,7 @@ Esta exposición ha sido minuciosamente estudiada y elaborada para lograr transm
 Tim Burton utilizó en incontables ocasiones el programa “Flash” (que fue en un primer momento conocido como “FutureSplash” antes de ser de Macromedia, empresa que lo vendió a Adobe en 2005) para hacer animaciones y prototipos de escenas de sus películas o, simplemente, hacer lo que para mí es un **híbrido** entre el típico **dibujo de cuaderno de instituto** y una **animación clásica** de Disney
 Todas estas animaciones están expuestas como cuadros, haciendo un híbrido entre el cuadro pictórico y la animación
 
-
+Haz clic sobre la imagen para ver el vídeo
 [![Click para ver vídeo](http://img.youtube.com/vi/-1nKVJTTFqA/0.jpg)](https://www.youtube.com/watch?v=-1nKVJTTFqA)
 
 ## Conclusiones
