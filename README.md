@@ -17,13 +17,14 @@ Con **“la máquina de medios”** que es el **ordenador**, la creación de un 
 3D projection mapping on a church es un proyecto de videomapping realizado en la ciudad de Gorlice, en Polonia por Mediacraft, empresa dedicada al diseño y desarrollo de videomapping, animación 3D y proyección interactiva. Es un espectáculo híbrido que integra en un nuevo medio la animación 3D, la programación y la proyección de imágenes. 
 > En un evento de projection mapping o un videomapping el público asiste como el que asiste a unos fuegos artificiales, no esperan recibir un mensaje, no esperan ver una historia ni van a empatizar con personajes, sino que, simplemente, de dejan envolver por el espectáculo. 
 
+![](https://www.davidgbonacho.com/uoc/cd/pec3/3dprojectionchur.jpg)
+
 ## El videomapping
 
 En parte, el espectáculo también se diseña con ese objetivo (crear unos “fuegos artificiales” que impresionen por la cantidad de efectos visuales sorprendentes y que provoquen el mismo efecto que aquellos sobre el público, dejando cualquier otra consideración aparte. 
 
 Sin duda, el videomapping es una hibrización en toda regla, es un tipo de espectáculo que, en poco tiempo, ha generado un nuevo medio que, asimismo, está evolucionando y al que están alimentando artistas gráficos, diseñadores y programadores o artistas que reúnen todos estas características como es el caso de Refik Anadol, cuyo trabajo para videomapping utilizando la programación con vvvv está siendo muy enriquecedor para este nuevo medio, creando otros híbridos como la escultura 3D animada que funde el medio escultórico con la animación y formación de estructuras por software y todo ello proyectándolo en un entorno envolvente para el espectador.
 
-![](https://www.davidgbonacho.com/uoc/cd/pec3/3dprojectionchur.jpg)
 
 ## El espectáculo
 
@@ -33,7 +34,7 @@ Sin duda, el videomapping es una hibrización en toda regla, es un tipo de espec
 
 ## vvvv - lenguaje híbrido 
 
-El diseño y producción de este tipo de espectáculos ha provocado que naciera un lenguaje de programación que podríamos considerar “híbrido” como es vvvv (4v) un lenguaje “multipropósito” que incluye un modo visual de incluir la lógica para conectar diferentes dispositivos y arrojar en ellos una acción (muy parecido a los diagramas de flujo en los que conectar diferentes efectos o procedimientos en las aplicaciones 3D o de edición de efectos) creando con ello un sinfín de posibilidades a la hora de crear instalaciones de videomapping.
+El diseño y producción de este tipo de espectáculos ha provocado que naciera un lenguaje de programación que podríamos considerar “híbrido” como es ![vvvv](https://www.vvvv.org) (4v) un lenguaje “multipropósito” que incluye un modo visual de incluir la lógica para conectar diferentes dispositivos y arrojar en ellos una acción (muy parecido a los diagramas de flujo en los que conectar diferentes efectos o procedimientos en las aplicaciones 3D o de edición de efectos) creando con ello un sinfín de posibilidades a la hora de crear instalaciones de videomapping.
 
 ![](https://emiliusvgs.com/wp-content/uploads/2018/11/vvvv-emiliusvgs.jpg)
 
