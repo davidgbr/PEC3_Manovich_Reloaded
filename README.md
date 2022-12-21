@@ -67,6 +67,8 @@ Esta exposición ha sido minuciosamente estudiada y elaborada para lograr transm
 Tim Burton utilizó en incontables ocasiones el programa “Flash” (que fue en un primer momento conocido como “FutureSplash” antes de ser de Macromedia, empresa que lo vendió a Adobe en 2005) para hacer animaciones y prototipos de escenas de sus películas o, simplemente, hacer lo que para mí es un **híbrido** entre el típico **dibujo de cuaderno de instituto** y una **animación clásica** de Disney
 Todas estas animaciones están expuestas como cuadros, haciendo un híbrido entre el cuadro pictórico y la animación
 
+![](https://www.youtube.com/watch?v=-1nKVJTTFqA)
+
 
 ## Conclusiones
 
