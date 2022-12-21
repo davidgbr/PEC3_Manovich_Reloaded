@@ -68,8 +68,7 @@ Tim Burton utilizó en incontables ocasiones el programa “Flash” (que fue en
 Todas estas animaciones están expuestas como cuadros, haciendo un híbrido entre el cuadro pictórico y la animación
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-1nKVJTTFqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Alternate Text]({http://img.youtube.com/vi/-1nKVJTTFqA/0.jpg})]({https://www.youtube.com/watch?v=-1nKVJTTFqA} "Tim Burton's Stainboy")
 
 ## Conclusiones
 
