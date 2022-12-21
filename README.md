@@ -3,7 +3,7 @@
 
 > Autor: David G. Bonacho
 
-#Introducción
+# Introducción
 ## El futuro no es lo que era
 
 La hibridación no es lo mismo que multimedia. Sí que es cierto que existe una combinación de varios medios pero, a diferencia del multimedia de finales del siglo pasado, donde se presentaba el audio, el vídeo, el texto, y otros elementos por separado pero agrupados, en el caso de la hibridación se trata de una simbiosis, una mezcla entre uno o más medios que, a su vez, produce un nuevo medio. 
