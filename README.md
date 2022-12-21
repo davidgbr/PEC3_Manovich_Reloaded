@@ -34,22 +34,22 @@ Sin duda, el videomapping es una hibrización en toda regla, es un tipo de espec
 
 ## vvvv - lenguaje híbrido 
 
-El diseño y producción de este tipo de espectáculos ha provocado que naciera un lenguaje de programación que podríamos considerar “híbrido” como es ![vvvv](https://www.vvvv.org) (4v) un lenguaje “multipropósito” que incluye un modo visual de incluir la lógica para conectar diferentes dispositivos y arrojar en ellos una acción (muy parecido a los diagramas de flujo en los que conectar diferentes efectos o procedimientos en las aplicaciones 3D o de edición de efectos) creando con ello un sinfín de posibilidades a la hora de crear instalaciones de videomapping.
+El diseño y producción de este tipo de espectáculos ha provocado que naciera un lenguaje de programación que podríamos considerar “híbrido” como es [vvvv](https://www.vvvv.org) (4v) un lenguaje **“multipropósito”** que incluye un modo visual de incluir la lógica para conectar diferentes dispositivos y arrojar en ellos una acción (muy parecido a los diagramas de flujo en los que conectar diferentes efectos o procedimientos en las aplicaciones 3D o de edición de efectos) creando con ello un sinfín de posibilidades a la hora de crear instalaciones de videomapping.
 
 ![](https://emiliusvgs.com/wp-content/uploads/2018/11/vvvv-emiliusvgs.jpg)
 
 ## Cómo afecta al espectador
 
 Como ya he dicho, el espectáculo de videomapping deja (en principio) a un lado toda pretensión de lanzar un mensaje definido, de contar una historia o de trasladar al espectador una idea.
-Se trata de hacer que el espectador pase 10 o 12 minutos boquiabierto, de abstraerle del mundo real durante un breve periodo de tiempo y luego dejarle nuevamente en la realidad.
+- Se trata de hacer que el espectador pase 10 o 12 minutos boquiabierto
+- de abstraerle del mundo real durante un breve periodo de tiempo 
+- luego dejarle nuevamente en la realidad.
 
-![](https://www.jamkazam.com/assets/landing/Top%2010%20Image%20-%20Number%201.png
 
 ## Conclusiones
 
 El nuevo medio hibrizado que es el videomapping tiene todavía muchísimo por recorrer. En mi opinión, en estos años está ocurriendo como ocurrió con la llegada del sonido al cine. Las primeras películas con sonido eran un no-parar de música, sonidos, voces constantemente copando la banda sonora sin orden ni concierto. Tuvieron que pasar años y realizarse muchas películas para que, de repente, llegase nuevamente el “silencio” al cine y que el sonido se convirtiera en una poderosa herramienta que, en conjunción con la imagen, sea una pieza fundamental y con un peso específico incuestionable en la narrativa y en la transmisión de sensaciones, ideas y mensajes. Creo que el videomapping también asumirá un papel parecido a medida que vaya evolucionando.
 
-![](https://www.jamkazam.com/assets/landing/Top%2010%20Image%20-%20Number%201.png
 
 
 # El laberinto de Tim Burton – Exposición inmersiva.
