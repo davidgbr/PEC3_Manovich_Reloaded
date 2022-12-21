@@ -53,8 +53,7 @@ El nuevo medio hibrizado que es el videomapping tiene todavía muchísimo por re
 
 El laberinto de Tim Burton es un viaje al universo creativo del director de cine, productor, escritor y dibujante. Desde la década de los 80 ha creado un universo único con largometrajes como Beetlejuice, Batman, Eduardo Manostijeras, Pesadilla antes de Navidad, Sleepy Hollow, Alicia en el país de las maravillas, La Novia Cadáver, Sweeney Todd: El barbero diabólico de la calle Fleet o Charlie y la Fábrica de Chocolate. 
 
-![](https://www.jamkazam.com/assets/landing/Top%2010%20Image%20-%20Number%201.png)
-
+(https://media.revistaad.es/photos/6336d3733d57f1a99088d26d/16:9/w_2000,h_1125,c_limit/EXPOSICI%C3%93N%20TIM%20BURTON_3_FABIAN%20MORASUT.jpg)
 
 > El concepto de exposición “inmersiva” es ya un híbrido en sí mismo. Es una fusión entre una exposición, las artes escénicas, las artes plásticas y el cine.
 
