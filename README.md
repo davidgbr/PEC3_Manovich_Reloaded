@@ -23,16 +23,19 @@ En parte, el espectáculo también se diseña con ese objetivo (crear unos “fu
 
 Sin duda, el videomapping es una hibrización en toda regla, es un tipo de espectáculo que, en poco tiempo, ha generado un nuevo medio que, asimismo, está evolucionando y al que están alimentando artistas gráficos, diseñadores y programadores o artistas que reúnen todos estas características como es el caso de Refik Anadol, cuyo trabajo para videomapping utilizando la programación con vvvv está siendo muy enriquecedor para este nuevo medio, creando otros híbridos como la escultura 3D animada que funde el medio escultórico con la animación y formación de estructuras por software y todo ello proyectándolo en un entorno envolvente para el espectador.
 
+![](https://www.davidgbonacho.com/uoc/cd/pec3/3dprojectionchur.jpg)
+
 ## El espectáculo
 
 3D projection mapping on a church es un espectáculo de videomapping sincronizado con la música y el audio en general (esto es importante) Los efectos de iluminación que son “emulados” con la animación 3D y proyectados sobre el frontal de la iglesia hacen que ésta se convierta en un nuevo “objeto” más allá del simple edificio que estaba frente a nosotros solo unos minutos antes.
 
+![](https://www.davidgbonacho.com/uoc/cd/pec3/church.jpg)
 
 ## vvvv - lenguaje híbrido 
 
 El diseño y producción de este tipo de espectáculos ha provocado que naciera un lenguaje de programación que podríamos considerar “híbrido” como es vvvv (4v) un lenguaje “multipropósito” que incluye un modo visual de incluir la lógica para conectar diferentes dispositivos y arrojar en ellos una acción (muy parecido a los diagramas de flujo en los que conectar diferentes efectos o procedimientos en las aplicaciones 3D o de edición de efectos) creando con ello un sinfín de posibilidades a la hora de crear instalaciones de videomapping.
 
-![](https://www.jamkazam.com/assets/landing/Top%2010%20Image%20-%20Number%201.png
+![](https://emiliusvgs.com/wp-content/uploads/2018/11/vvvv-emiliusvgs.jpg)
 
 ## Cómo afecta al espectador
 
